@@ -20,6 +20,8 @@ This project is a Student Management System developed using PHP and MySQL. It al
   -this system contain two table (admin table) and (student table) the admin table will store admin credentials and then student table store student information.
 
   - in the both table there is column called (id) which is auto increment in order to improve the security and uniqueness of user data.
+ 
+  - in the admin table i have used username :samuel and password: 123
   
   
 
